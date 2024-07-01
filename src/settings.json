@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "eventDescription": "Join us at the upcoming Technical Sharing Meetup on November 24 – 25. Connect with industry leaders and enthusiasts!",
+        "linkText": "RSVP Now"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Explore, Empower, and Elevate with YAY - Your Hub for Innovative Technical Insights",
+        "title": "Unleash Your Potential"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Explore, Empower, and Elevate with YAY - Your Hub for Innovative Technical Insights",
+        "title": "Unleash Your Potential"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Explore, Empower, and Elevate with YAY - Your Hub for Innovative Technical Insights",
+        "title": "Unleash Your Potential"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Explore, Empower, and Elevate with YAY - Your Hub for Innovative Technical Insights",
+        "title": "Unleash Your Potential"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Explore, Empower, and Elevate with YAY - Your Hub for Innovative Technical Insights",
+        "title": "Unleash Your Potential"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Explore, Empower, and Elevate with YAY - Your Hub for Innovative Technical Insights",
+        "title": "Unleash Your Potential"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Explore, Empower, and Elevate with YAY - Your Hub for Innovative Technical Insights",
+        "title": "Unleash Your Potential"
+      }
+    }
+  ],
+  "theme": "dark",
+  "font": "",
+  "title": "Unleash Your Potential",
+  "subtitle": "Explore, Empower, and Elevate with YAY - Your Hub for Innovative Technical Insights"
+}
